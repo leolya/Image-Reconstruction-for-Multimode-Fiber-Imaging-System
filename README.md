@@ -2,7 +2,7 @@
 
 Implementation of three deep learning methods to inverse the distortion caused by Multimode Fiber, including U-net, autoencoder and MLP.
 
-![](D:\github\Image-Reconstruction-for-Multimode-Fiber-Imaging-System\assets\problem.jpg)
+![](https://github.com/leolya/Image-Reconstruction-for-Multimode-Fiber-Imaging-System/blob/master/assets/problem.jpg)
 
 
 
@@ -35,5 +35,5 @@ Dataset is separately stored in .npy files.
 
 ### Visualization:
 
-![](D:\github\Image-Reconstruction-for-Multimode-Fiber-Imaging-System\assets\visualization.jpg)
+![](https://github.com/leolya/Image-Reconstruction-for-Multimode-Fiber-Imaging-System/blob/master/assets/visualization.jpg)
 
